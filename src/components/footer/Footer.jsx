@@ -22,13 +22,9 @@ const Footer = () => {
                     <li className="menuItem">FAQ</li>
                 </ul>
                 <div className="infoText">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur.
+                    Welcome to TrailerPlus, your source for captivating movie and TV show trailers. Explore a world of stories, top casts, and thrilling previews that provide a taste of the excitement to come. Immerse yourself in the art of anticipation as you discover a curated selection of trailers that offer a glimpse into the cinematic wonders awaiting you. Lights, camera, anticipation!
                 </div>
+
                 <div className="socialIcons">
                     <span className="icon">
                         <FaFacebookF />
